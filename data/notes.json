@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "title": "Grocery List",
+    "content": "- Milk & Farm Eggs\n- Sourdough Bread\n- Fresh Basil & Tomatoes\n- Extra Virgin Olive Oil\n- Dark Roast Coffee Beans",
+    "createdAt": "2026-11-06T18:00:00.000Z",
+    "updatedAt": "2026-11-06T18:00:00.000Z"
+  },
+  {
+    "id": "2",
+    "title": "Meeting Notes: Project Kickoff",
+    "content": "Discussed project scope, milestones, and tech stack.\n\nFrontend: React with Tailwind CSS\nBackend: Node.js Express REST API\nDatabase: Simple JSON file storage\n\nNext steps: Finish core CRUD endpoints and verify responsive layout.",
+    "createdAt": "2026-11-06T19:30:00.000Z",
+    "updatedAt": "2026-11-06T19:30:00.000Z"
+  },
+  {
+    "id": "3",
+    "title": "Book Notes: Atomic Habits",
+    "content": "Key takeaways:\n1. Focus on systems rather than goals.\n2. Small 1% improvements accumulate rapidly over time.\n3. Make good habits obvious, attractive, easy, and satisfying.\n4. Identity-based habits create long-term adherence.",
+    "createdAt": "2026-11-06T21:00:00.000Z",
+    "updatedAt": "2026-11-06T21:00:00.000Z"
+  },
+  {
+    "id": "4",
+    "title": "Weekend Chores & Errands",
+    "content": "- Water indoor plants\n- Drop off package at the post office\n- Organize desk cables and workspace\n- 45 minute bike ride in the afternoon",
+    "createdAt": "2026-11-06T22:15:00.000Z",
+    "updatedAt": "2026-11-06T22:15:00.000Z"
+  }
+]

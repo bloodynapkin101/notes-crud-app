@@ -1,0 +1,6 @@
+{
+  "name": "NoteCraft - Modern Notes Workspace",
+  "description": "Full-stack notes CRUD application built with React, Tailwind CSS, and Node.js Express.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
